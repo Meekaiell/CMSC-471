@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8908a52-f552-4c78-b91c-c510ec7de6dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="265" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="471_Proj" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YOw99VGn1lrVXEQEycs7S7Zzua" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/baby_driver.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\meeka\PycharmProjects\471_Proj" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="baby_driver" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="471_Proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\meeka\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baby_driver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8908a52-f552-4c78-b91c-c510ec7de6dd" name="Default Changelist" comment="" />
+      <created>1582826794424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582826794424</updated>
+      <workItem from="1582826795831" duration="995000" />
+      <workItem from="1583167039569" duration="3043000" />
+      <workItem from="1583188392880" duration="1321000" />
+      <workItem from="1583776547190" duration="20101000" />
+      <workItem from="1583814248143" duration="6782000" />
+      <workItem from="1583962887636" duration="907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583813877194">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="147" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1583813877194" />
+    <state x="443" y="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583813242586">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="443" y="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1368.872@0.0.1368.872" timestamp="1583813242586" />
+    <state x="472" y="216" key="FileChooserDialogImpl" timestamp="1583813875880">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="472" y="216" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1583813875880" />
+    <state width="639" height="279" key="GridCell.Tab.0.bottom" timestamp="1583859731957">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="639" height="279" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583859731957" />
+    <state width="639" height="279" key="GridCell.Tab.0.center" timestamp="1583859731957">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="639" height="279" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1583859731957" />
+    <state width="639" height="279" key="GridCell.Tab.0.left" timestamp="1583859731956">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="639" height="279" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1583859731956" />
+    <state width="639" height="279" key="GridCell.Tab.0.right" timestamp="1583859731957">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="639" height="279" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1583859731957" />
+    <state width="639" height="279" key="GridCell.Tab.1.bottom" timestamp="1583859731957">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="639" height="279" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1583859731957" />
+    <state width="639" height="279" key="GridCell.Tab.1.center" timestamp="1583859731957">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="639" height="279" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1583859731957" />
+    <state width="639" height="279" key="GridCell.Tab.1.left" timestamp="1583859731957">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="639" height="279" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1583859731957" />
+    <state width="639" height="279" key="GridCell.Tab.1.right" timestamp="1583859731957">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="639" height="279" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1583859731957" />
+    <state x="186" y="78" key="SettingsEditor" timestamp="1583963049269">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="78" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1583963049269" />
+    <state x="460" y="470" key="com.intellij.ide.util.TipDialog" timestamp="1583962888682">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="460" y="470" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1583962888682" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1583813184255">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1583813184255" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/471_Proj$baby_driver.coverage" NAME="baby_driver Coverage Results" MODIFIED="1583825067704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/471_Proj$Test.coverage" NAME="Test Coverage Results" MODIFIED="1583167245703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/471_Proj$471_Proj.coverage" NAME="471_Proj Coverage Results" MODIFIED="1583813800416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/471_Proj$eval_funcs.coverage" NAME="eval_funcs Coverage Results" MODIFIED="1583813341209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

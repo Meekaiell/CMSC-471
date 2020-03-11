@@ -1,3 +1,0 @@
-/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/CMakeFiles/canny.dir
-/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/CMakeFiles/edit_cache.dir
