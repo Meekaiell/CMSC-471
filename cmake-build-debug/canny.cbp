@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="canny"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="canny">
+				<Option output="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/canny.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/."/>
+					<Add directory="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/out"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 canny"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="canny/fast">
+				<Option output="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/canny.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/."/>
+					<Add directory="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/out"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 canny/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/CMakeLists.txt">
+			<Option target="canny"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/canny.c">
+			<Option target="canny"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/dc_image.c">
+			<Option target="canny"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/dc_image.h">
+			<Option target="canny"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/make.bat">
+			<Option target="canny"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/stb_image.h">
+			<Option target="canny"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/stb_image_write.h">
+			<Option target="canny"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/sun.jpg">
+			<Option target="canny"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/meeka/OneDrive/Desktop/canny/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
